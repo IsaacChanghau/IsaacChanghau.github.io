@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Joey Tianyi Zhou* | IsaacChanghau</title>
+    <link>/authors/joey-tianyi-zhou/</link>
+      <atom:link href="/authors/joey-tianyi-zhou/index.xml" rel="self" type="application/rss+xml" />
+    <description>Joey Tianyi Zhou*</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© IsaacChanghau · 2017-2020</copyright><lastBuildDate>Wed, 31 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Joey Tianyi Zhou*</title>
+      <link>/authors/joey-tianyi-zhou/</link>
+    </image>
+    
+    <item>
+      <title>Dual Adversarial Transfer for Sequence Labeling</title>
+      <link>/publication/datnet-tpami/</link>
+      <pubDate>Wed, 31 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/datnet-tpami/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dual Adversarial Neural Transfer for Low-resource Named Entity Recognition</title>
+      <link>/publication/datnet/</link>
+      <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/datnet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RoSeq: Robust Sequence Labeling</title>
+      <link>/publication/roseq/</link>
+      <pubDate>Sat, 06 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/roseq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning With Annotation of Various Degrees</title>
+      <link>/publication/lavd/</link>
+      <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/lavd/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

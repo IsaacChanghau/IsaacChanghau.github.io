@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | IsaacChanghau</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© IsaacChanghau · 2017-2020</copyright><lastBuildDate>Fri, 06 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+    <item>
+      <title>Cheston Tan</title>
+      <link>/authors/cheston-tan/</link>
+      <pubDate>Fri, 06 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/cheston-tan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hao Zhang</title>
+      <link>/authors/hao-zhang/</link>
+      <pubDate>Fri, 06 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/hao-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hongyuan Zhu</title>
+      <link>/authors/hongyuan-zhu/</link>
+      <pubDate>Fri, 06 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/hongyuan-zhu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tianying Wang</title>
+      <link>/authors/tianying-wang/</link>
+      <pubDate>Fri, 06 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/tianying-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wei Jing</title>
+      <link>/authors/wei-jing/</link>
+      <pubDate>Fri, 06 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/wei-jing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wei Qi Toh</title>
+      <link>/authors/wei-qi-toh/</link>
+      <pubDate>Fri, 06 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/wei-qi-toh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yan Wu</title>
+      <link>/authors/yan-wu/</link>
+      <pubDate>Fri, 06 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/yan-wu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yong Liu</title>
+      <link>/authors/yong-liu/</link>
+      <pubDate>Fri, 06 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/yong-liu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Di Jing</title>
+      <link>/authors/di-jing/</link>
+      <pubDate>Wed, 31 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/di-jing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joey Tianyi Zhou*</title>
+      <link>/authors/joey-tianyi-zhou/</link>
+      <pubDate>Wed, 31 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/joey-tianyi-zhou/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xi Peng</title>
+      <link>/authors/xi-peng/</link>
+      <pubDate>Wed, 31 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/xi-peng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kenneth Kwok</title>
+      <link>/authors/kenneth-kwok/</link>
+      <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/kenneth-kwok/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rick Siow Mong Goh</title>
+      <link>/authors/rick-siow-mong-goh/</link>
+      <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/rick-siow-mong-goh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yang Xiao</title>
+      <link>/authors/yang-xiao/</link>
+      <pubDate>Sat, 06 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/yang-xiao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zhiguo Cao</title>
+      <link>/authors/zhiguo-cao/</link>
+      <pubDate>Sat, 06 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/zhiguo-cao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chen Gong</title>
+      <link>/authors/chen-gong/</link>
+      <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/chen-gong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meng Fang</title>
+      <link>/authors/meng-fang/</link>
+      <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/meng-fang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Huminski Aliaksandr</title>
+      <link>/authors/huminski-aliaksandr/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/huminski-aliaksandr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lap Pui Chau</title>
+      <link>/authors/lap-pui-chau/</link>
+      <pubDate>Tue, 16 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>/authors/lap-pui-chau/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;ZHANG Hao is a research engineer of Artificial Intelligence Initiative (A*AI) at Agency for Science, Technology and Research (A*STAR), Singapore. His research interests include natural language processing, visual grounding, reinforcement learning for robotics and machine learning methods.&lt;br&gt;
+Meanwhile, ZHANG Hao is pursuing his Ph.D. in computer science at Nayang Technological University (NTU) since Aug. 2019, and he is supervised by Prof. &lt;a href=&#34;https://www.ntu.edu.sg/home/axsun/&#34; target=&#34;_blank&#34;&gt;SUN Aixin&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;WHAT I KNOW&lt;/strong&gt;&lt;br&gt;
+&lt;font size=&#34;2.5rem&#34;&gt;&lt;strong&gt;Programming Languages&lt;/strong&gt;: Python, Java, C/C++, JavaScript, Matlab.&lt;/font&gt;&lt;br&gt;
+&lt;font size=&#34;2.5rem&#34;&gt;&lt;strong&gt;Tools &amp;amp; Frameworks&lt;/strong&gt;: TensorFlow, PyTorch, Keras, DL4J, Stanford NLP, Spark, ConceptNet, Neo4J and etc.&lt;/font&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

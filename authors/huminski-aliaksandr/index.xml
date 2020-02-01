@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Huminski Aliaksandr | IsaacChanghau</title>
+    <link>/authors/huminski-aliaksandr/</link>
+      <atom:link href="/authors/huminski-aliaksandr/index.xml" rel="self" type="application/rss+xml" />
+    <description>Huminski Aliaksandr</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© IsaacChanghau · 2017-2020</copyright><lastBuildDate>Tue, 01 May 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Huminski Aliaksandr</title>
+      <link>/authors/huminski-aliaksandr/</link>
+    </image>
+    
+    <item>
+      <title>Action Hierarchy Extraction and its Application</title>
+      <link>/publication/action-hierarchy/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/action-hierarchy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WordNet Troponymy and Extraction of Manner-Result Relations</title>
+      <link>/publication/wordnet/</link>
+      <pubDate>Mon, 08 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/wordnet/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

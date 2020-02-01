@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | IsaacChanghau</title>
+    <link>/publication_types/1/</link>
+      <atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© IsaacChanghau · 2017-2020</copyright><lastBuildDate>Fri, 06 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>1</title>
+      <link>/publication_types/1/</link>
+    </image>
+    
+    <item>
+      <title>Efficient Robotic Task Generalization Using Deep Model Fusion Reinforcement Learning</title>
+      <link>/publication/deep-model-fusion/</link>
+      <pubDate>Fri, 06 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/deep-model-fusion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dual Adversarial Neural Transfer for Low-resource Named Entity Recognition</title>
+      <link>/publication/datnet/</link>
+      <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/datnet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Action Hierarchy Extraction and its Application</title>
+      <link>/publication/action-hierarchy/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/action-hierarchy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WordNet Troponymy and Extraction of Manner-Result Relations</title>
+      <link>/publication/wordnet/</link>
+      <pubDate>Mon, 08 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/wordnet/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

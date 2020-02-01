@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | IsaacChanghau</title>
+    <link>/publication/</link>
+      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© IsaacChanghau · 2017-2020</copyright><lastBuildDate>Fri, 06 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Publications</title>
+      <link>/publication/</link>
+    </image>
+    
+    <item>
+      <title>Efficient Robotic Task Generalization Using Deep Model Fusion Reinforcement Learning</title>
+      <link>/publication/deep-model-fusion/</link>
+      <pubDate>Fri, 06 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/deep-model-fusion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dual Adversarial Transfer for Sequence Labeling</title>
+      <link>/publication/datnet-tpami/</link>
+      <pubDate>Wed, 31 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/datnet-tpami/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dual Adversarial Neural Transfer for Low-resource Named Entity Recognition</title>
+      <link>/publication/datnet/</link>
+      <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/datnet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RoSeq: Robust Sequence Labeling</title>
+      <link>/publication/roseq/</link>
+      <pubDate>Sat, 06 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/roseq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning With Annotation of Various Degrees</title>
+      <link>/publication/lavd/</link>
+      <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/lavd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Action Hierarchy Extraction and its Application</title>
+      <link>/publication/action-hierarchy/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/action-hierarchy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WordNet Troponymy and Extraction of Manner-Result Relations</title>
+      <link>/publication/wordnet/</link>
+      <pubDate>Mon, 08 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/wordnet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Removing Backscatter to Enhance the Visibility of Underwater Object</title>
+      <link>/publication/backscatter/</link>
+      <pubDate>Tue, 16 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/backscatter/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

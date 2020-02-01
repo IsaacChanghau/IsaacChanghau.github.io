@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hongyuan Zhu | IsaacChanghau</title>
+    <link>/authors/hongyuan-zhu/</link>
+      <atom:link href="/authors/hongyuan-zhu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hongyuan Zhu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© IsaacChanghau · 2017-2020</copyright><lastBuildDate>Fri, 06 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Hongyuan Zhu</title>
+      <link>/authors/hongyuan-zhu/</link>
+    </image>
+    
+    <item>
+      <title>Efficient Robotic Task Generalization Using Deep Model Fusion Reinforcement Learning</title>
+      <link>/publication/deep-model-fusion/</link>
+      <pubDate>Fri, 06 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/deep-model-fusion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dual Adversarial Neural Transfer for Low-resource Named Entity Recognition</title>
+      <link>/publication/datnet/</link>
+      <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/datnet/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
