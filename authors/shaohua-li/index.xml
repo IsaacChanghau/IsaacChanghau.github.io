@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Yong Liu | IsaacChanghau</title>
-    <link>/authors/yong-liu/</link>
-      <atom:link href="/authors/yong-liu/index.xml" rel="self" type="application/rss+xml" />
-    <description>Yong Liu</description>
+    <title>Shaohua Li | IsaacChanghau</title>
+    <link>/authors/shaohua-li/</link>
+      <atom:link href="/authors/shaohua-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shaohua Li</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© IsaacChanghau · 2017-2020</copyright><lastBuildDate>Fri, 07 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>Yong Liu</title>
-      <link>/authors/yong-liu/</link>
+      <title>Shaohua Li</title>
+      <link>/authors/shaohua-li/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>/publication/robocodraw/</link>
       <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
       <guid>/publication/robocodraw/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Efficient Robotic Task Generalization Using Deep Model Fusion Reinforcement Learning</title>
-      <link>/publication/deep-model-fusion/</link>
-      <pubDate>Fri, 06 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/deep-model-fusion/</guid>
       <description></description>
     </item>
     

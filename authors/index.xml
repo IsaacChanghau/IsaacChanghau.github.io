@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© IsaacChanghau · 2017-2020</copyright><lastBuildDate>Fri, 06 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© IsaacChanghau · 2017-2020</copyright><lastBuildDate>Fri, 07 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Authors</title>
@@ -13,18 +13,66 @@
     </image>
     
     <item>
-      <title>Cheston Tan</title>
-      <link>/authors/cheston-tan/</link>
-      <pubDate>Fri, 06 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/cheston-tan/</guid>
+      <title>Hao Zhang</title>
+      <link>/authors/hao-zhang/</link>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/hao-zhang/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Hao Zhang</title>
-      <link>/authors/hao-zhang/</link>
+      <title>Shaohua Li</title>
+      <link>/authors/shaohua-li/</link>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/shaohua-li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tianying Wang</title>
+      <link>/authors/tianying-wang/</link>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/tianying-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wei Jing</title>
+      <link>/authors/wei-jing/</link>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/wei-jing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wei Qi Toh</title>
+      <link>/authors/wei-qi-toh/</link>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/wei-qi-toh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xiuchao Sui</title>
+      <link>/authors/xiuchao-sui/</link>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/xiuchao-sui/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yong Liu</title>
+      <link>/authors/yong-liu/</link>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/yong-liu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cheston Tan</title>
+      <link>/authors/cheston-tan/</link>
       <pubDate>Fri, 06 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/hao-zhang/</guid>
+      <guid>/authors/cheston-tan/</guid>
       <description></description>
     </item>
     
@@ -37,42 +85,10 @@
     </item>
     
     <item>
-      <title>Tianying Wang</title>
-      <link>/authors/tianying-wang/</link>
-      <pubDate>Fri, 06 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/tianying-wang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Wei Jing</title>
-      <link>/authors/wei-jing/</link>
-      <pubDate>Fri, 06 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/wei-jing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Wei Qi Toh</title>
-      <link>/authors/wei-qi-toh/</link>
-      <pubDate>Fri, 06 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/wei-qi-toh/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Yan Wu</title>
       <link>/authors/yan-wu/</link>
       <pubDate>Fri, 06 Dec 2019 00:00:00 +0000</pubDate>
       <guid>/authors/yan-wu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yong Liu</title>
-      <link>/authors/yong-liu/</link>
-      <pubDate>Fri, 06 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/yong-liu/</guid>
       <description></description>
     </item>
     
@@ -170,7 +186,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
       <description>&lt;p&gt;ZHANG Hao is a research engineer of Artificial Intelligence Initiative (A*AI) at Agency for Science, Technology and Research (A*STAR), Singapore. His research interests include natural language processing, visual grounding, reinforcement learning for robotics and machine learning methods.&lt;br&gt;
-Meanwhile, ZHANG Hao is pursuing his Ph.D. in computer science at Nayang Technological University (NTU) since Aug. 2019, and he is supervised by Prof. &lt;a href=&#34;https://www.ntu.edu.sg/home/axsun/&#34; target=&#34;_blank&#34;&gt;SUN Aixin&lt;/a&gt;.&lt;/p&gt;
+Meanwhile, ZHANG Hao is pursuing his Ph.D. in computer science at Nayang Technological University (NTU) since Aug. 2019, and he is supervised by Associate Prof. &lt;a href=&#34;https://www.ntu.edu.sg/home/axsun/&#34; target=&#34;_blank&#34;&gt;SUN Aixin&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;WHAT I KNOW&lt;/strong&gt;&lt;br&gt;
 &lt;font size=&#34;2.8rem&#34;&gt;&lt;strong&gt;Programming Languages&lt;/strong&gt;: Python, Java, C/C++, JavaScript.&lt;/font&gt;&lt;br&gt;
 &lt;font size=&#34;2.8rem&#34;&gt;&lt;strong&gt;Tools &amp;amp; Frameworks&lt;/strong&gt;: TensorFlow, PyTorch, Keras, DL4J, Stanford NLP, Spark, ConceptNet, Neo4J and etc.&lt;/font&gt;&lt;/p&gt;
