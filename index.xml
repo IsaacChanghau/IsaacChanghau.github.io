@@ -95,37 +95,6 @@
     </item>
     
     <item>
-      <title>Neural Sequence Labeling</title>
-      <link>/project/seqlabeling/</link>
-      <pubDate>Tue, 20 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>/project/seqlabeling/</guid>
-      <description>&lt;p&gt;Sequence labeling is a type of pattern recognition task that involves the algorithmic assignment of a categorical label to each member of a sequence of observed values. It includes but not limit to Part Of Speech (POS) tagging, Chunking, Named Entity Recognition (NER), Semantic Role Labeling (SRL) and Punctuation Restoration. Those tasks can be treated as the pre-processing for various natural language processing tasks, which are capable of providing aplenty syntatic or semantic information and greatly improving the performance of subsequent tasks.&lt;/p&gt;
-&lt;p&gt;In this project, we investigated a unified neural network architecture and learning algorithm that can be applied to various sequence labeling tasks including Part of Speech (POS) Tagging, Chunking, Named Entity Recognition (NER) and so on. The aim of this project is to build an effective and versatile module that is able to learn and performance well among various seqeuence labeling datasets without exploiting man-made input features, carefully tuning parameters or setting up different model structures. This versatility is achieved by trying to avoid task-specific engineering and therefore disregarding a lot of prior knowledge.&lt;/p&gt;
-&lt;p&gt;We did experiments on different publicly available sequence labeling datasets, like 
-&lt;a href=&#34;https://github.com/teropa/nlp/tree/master/resources/corpora/conll2002&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CoNLL2002 shared task dataset&lt;/a&gt;
-, 
-&lt;a href=&#34;https://cogcomp.org/page/resource_view/81&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CoNLL2003 shared task dataset&lt;/a&gt;
-, 
-&lt;a href=&#34;http://hltc.cs.ust.hk/iwslt/index.php/evaluation-campaign/ted-task.html#MTtrack&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IWSLT dataset&lt;/a&gt;
-, 
-&lt;a href=&#34;https://github.com/EuropeanaNewspapers/ner-corpora&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Europeana Newspapers dataset&lt;/a&gt;
- and etc., which include POS tagging, chunking, NER and Punctuation Restoration tasks, and achieve convincing results, which are comparable or better than the the state-of-the-arts with carefully hyperparameters tuning and configuration modifying.&lt;/p&gt;
-&lt;p&gt;Generally, our model follows the structure of 
-&lt;a href=&#34;https://arxiv.org/pdf/1603.01354.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;code&gt;BiRNN-CNNs-CRF&lt;/code&gt;&lt;/a&gt;
- with some modifications, as well as additional and optional modules, such as &lt;code&gt;highway network&lt;/code&gt;, &lt;code&gt;attention mechanism&lt;/code&gt; and &lt;code&gt;residual connections&lt;/code&gt;. For example, we use the four layers structure for Punctuation Restoration task, which contains character-level CNN and word embeddings with highway layer for optimization (&lt;code&gt;1st layer&lt;/code&gt;), 4-layer 
-&lt;a href=&#34;https://github.com/IsaacChanghau/Dense_BiLSTM&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;densely conntected bidirectional LSTM&lt;/a&gt;
- network to encode past and future contextual information for feature representations (&lt;code&gt;2nd layer&lt;/code&gt;), unidirectional LSTM layer with 
-&lt;a href=&#34;https://arxiv.org/pdf/1409.0473.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;attention mechanism&lt;/a&gt;
- to learn more informative and contextual feature representations (&lt;code&gt;3rd layer&lt;/code&gt;) and a 
-&lt;a href=&#34;http://blog.echen.me/2012/01/03/introduction-to-conditional-random-fields/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;conditional random field (CRF) layer&lt;/a&gt;
- to decode the outputs (&lt;code&gt;4th layer&lt;/code&gt;).&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Details and source codes&lt;/strong&gt;: 
-&lt;a href=&#34;https://github.com/IsaacChanghau/neural_sequence_labeling&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IsaacChanghau/neural_sequence_labeling&lt;/a&gt;
-.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>WordNet Troponymy and Extraction of Manner-Result Relations</title>
       <link>/publication/wordnet/</link>
       <pubDate>Mon, 08 Jan 2018 00:00:00 +0000</pubDate>
@@ -159,20 +128,6 @@
       <pubDate>Tue, 16 Aug 2016 00:00:00 +0000</pubDate>
       <guid>/publication/backscatter/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Image Enhancement based on Retinex Theory and Dual-tree Complex Wavelet Transform</title>
-      <link>/project/retinex/</link>
-      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
-      <guid>/project/retinex/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Supervisor&lt;/strong&gt;: &lt;a href=&#34;http://faculty.dlut.edu.cn/MMCL_WHY/zh_CN/index.htm&#34; target=&#34;_blank&#34;&gt;Hongyu Wang&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;The task of image enhancement is focus on restoring and clarifying the corrupted images to improve their quality, and image enhancement methods has been widely applied to numerous image analysis techniques including pattern recognition, image fusion, image segmentation, image compression and so forth. Among variety of image enhancement methods, algorithms based on Retinex theory have received more and more attentions and have been commonly used in many applications.&lt;/p&gt;
-&lt;p&gt;In this project, we described a Retinex theory based method for contrast and illuminance enhancement in images of low light or unevenly illuminated scenes. This method firstly transforms image from RGB color space to HSV color space, and decomposes the value channel using dual-tree complex wavelet transform. Then, an improved adaptive local tone mapping method is used to process the low frequency component of the image, and wavelet shrinkage method and fuzzy enhancement method are applied to denoise and enhance the high frequency component of the image. After that, the enhanced value channel is reconstructed and a statistical histogram optimization method is used. Finally, the enhanced image is transformed back to RGB color space.&lt;/p&gt;
-&lt;p&gt;In order to verify the feasibility and effectiveness of this method in image enhancement, this paper introduces different image quality assessment criterion, and conducts a great deal of experiments run by MATLAB, and compares against related image enhancement methods proposed by other scholars. Experiment results show that the method proposed by this paper performs very well with enhancement and denoise of the corrupted images.
-&lt;img src=&#34;/img/retinex-sample.png&#34; alt=&#34;sample&#34;&gt;
-Above shows the performance of proposed method (the last one), other state-of-the-arts and base-line methods. Left side shows the general performance while the right sides give details about local texture information restoration.&lt;/p&gt;
-</description>
     </item>
     
   </channel>
