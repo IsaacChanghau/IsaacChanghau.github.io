@@ -34,7 +34,7 @@
 &lt;li&gt;Knowledge learnt in one scenario should also be transferrable to other scenarios to effect faster learning.&lt;/li&gt;
 &lt;li&gt;Description of the events happening in the real world is in the form of textual natural language.&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;In order to tackle those problems, several technology components, including &lt;strong&gt;event / activity recognition and tracking&lt;/strong&gt;, &lt;strong&gt;behaviour extraction&lt;/strong&gt;, &lt;strong&gt;behavioural (causal) learning&lt;/strong&gt;, &lt;strong&gt;commonsense reasoning/learning&lt;/strong&gt;, &lt;strong&gt;behavioural (causal) reasoning&lt;/strong&gt; and &lt;strong&gt;narrative scene description&lt;/strong&gt;, are developed and then integrated to form the whole system. The general architecture is shown in the figure below, it briefly illustrates the overall workflow for training and opration processes.&lt;/p&gt;
+&lt;p&gt;In order to tackle those problems, several technology components, including &lt;strong&gt;event / activity recognition and tracking&lt;/strong&gt;, &lt;strong&gt;behaviour extraction&lt;/strong&gt;, &lt;strong&gt;behavioural (causal) learning&lt;/strong&gt;, &lt;strong&gt;commonsense reasoning/learning&lt;/strong&gt;, &lt;strong&gt;behavioural (causal) reasoning&lt;/strong&gt; and &lt;strong&gt;narrative scene description&lt;/strong&gt;, are developed and then integrated to form the whole system. The general architecture is shown in the figure above, it briefly illustrates the overall workflow for training and opration processes.&lt;/p&gt;
 </description>
     </item>
     
