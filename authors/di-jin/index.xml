@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Di Jin | IsaacChanghau</title>
+    <link>/authors/di-jin/</link>
+      <atom:link href="/authors/di-jin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Di Jin</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© IsaacChanghau · 2017-2020</copyright><lastBuildDate>Sat, 23 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Di Jin</title>
+      <link>/authors/di-jin/</link>
+    </image>
+    
+    <item>
+      <title>Multi-source Meta Transfer for Low Resource Multiple-Choice Question Answering</title>
+      <link>/publication/mmt/</link>
+      <pubDate>Sat, 23 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/mmt/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
