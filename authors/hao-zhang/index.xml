@@ -5,9 +5,9 @@
     <link>/authors/hao-zhang/</link>
       <atom:link href="/authors/hao-zhang/index.xml" rel="self" type="application/rss+xml" />
     <description>Hao Zhang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© IsaacChanghau · 2017-2020</copyright><lastBuildDate>Sun, 24 May 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© IsaacChanghau · 2017-2020</copyright><lastBuildDate>Wed, 24 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <url>/images/icon_hu1b364a951019a703f13d3cf900b79a27_31514_512x512_fill_lanczos_center_2.png</url>
       <title>Hao Zhang</title>
       <link>/authors/hao-zhang/</link>
     </image>
@@ -15,7 +15,7 @@
     <item>
       <title>Span-based Localizing Network for Natural Language Video Localization</title>
       <link>/publication/vslnet/</link>
-      <pubDate>Sun, 24 May 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 24 Jun 2020 00:00:00 +0000</pubDate>
       <guid>/publication/vslnet/</guid>
       <description></description>
     </item>
@@ -23,7 +23,7 @@
     <item>
       <title>Multi-source Meta Transfer for Low Resource Multiple-Choice Question Answering</title>
       <link>/publication/mmt/</link>
-      <pubDate>Sat, 23 May 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 23 Jun 2020 00:00:00 +0000</pubDate>
       <guid>/publication/mmt/</guid>
       <description></description>
     </item>
