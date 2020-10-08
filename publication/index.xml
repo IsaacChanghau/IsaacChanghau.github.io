@@ -5,12 +5,20 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© IsaacChanghau · 2017-2020</copyright><lastBuildDate>Wed, 24 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© IsaacChanghau · 2017-2020</copyright><lastBuildDate>Thu, 27 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu1b364a951019a703f13d3cf900b79a27_31514_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
       <link>/publication/</link>
     </image>
+    
+    <item>
+      <title>Deep N-ary Error Correcting Output Codes</title>
+      <link>/publication/deep-nary-ecoc/</link>
+      <pubDate>Thu, 27 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/deep-nary-ecoc/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Span-based Localizing Network for Natural Language Video Localization</title>
