@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Aixin Sun | IsaacChanghau</title>
-    <link>/authors/aixin-sun/</link>
-      <atom:link href="/authors/aixin-sun/index.xml" rel="self" type="application/rss+xml" />
-    <description>Aixin Sun</description>
+    <title>Eng Siong Chng | IsaacChanghau</title>
+    <link>/authors/eng-siong-chng/</link>
+      <atom:link href="/authors/eng-siong-chng/index.xml" rel="self" type="application/rss+xml" />
+    <description>Eng Siong Chng</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© IsaacChanghau · 2017-2021</copyright><lastBuildDate>Mon, 11 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu1b364a951019a703f13d3cf900b79a27_31514_512x512_fill_lanczos_center_2.png</url>
-      <title>Aixin Sun</title>
-      <link>/authors/aixin-sun/</link>
+      <title>Eng Siong Chng</title>
+      <link>/authors/eng-siong-chng/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>/publication/gdpnet/</link>
       <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
       <guid>/publication/gdpnet/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Span-based Localizing Network for Natural Language Video Localization</title>
-      <link>/publication/vslnet/</link>
-      <pubDate>Wed, 24 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/vslnet/</guid>
       <description></description>
     </item>
     
