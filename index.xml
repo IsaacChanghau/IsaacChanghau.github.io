@@ -85,6 +85,26 @@
     </item>
     
     <item>
+      <title>Human-Robot Collaborative Al for Advanced Manufacturing and Engineering (AME)</title>
+      <link>/project/hctl/</link>
+      <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/project/hctl/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Work Package 3 Human-like Concept and Task Learning&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The Collab AI Programme seeks to enable a fundamental shift in human-machine interaction to allow intelligent machines to work alongside humans as partners, interacting in a natural human-like manner. WP3 will develop concept and task learning algorithms for cobots to learn skills and actions quickly and in a human-like manner, in order to achieve easy to use cobots system and better human-robot interactions. The algorithms should most focus on the Advanced Manufacturing Engineering (AME) related applications, or could be extended to certain part of the manufacturing processes.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/hctl_pipeline.png&#34; alt=&#34;hctl&#34;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Task Learning&lt;/strong&gt;: Learn robotic skills and actions through Reinforcement Learning (RL) and Planning. The hybrid modelling are proposed to use the planning to generate a baseline and use RL to improve around the baseline.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Concept Learning&lt;/strong&gt;: Implicitly learn the concept involved in the manufacturing applications. Unsupervised learning is used to ground the concepts in a human-like manner, such that those concepts could be used in the cognitive architecture, and for improving the robotic task learning as well.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;/img/hctl.png&#34; alt=&#34;hctl&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Learning With Annotation of Various Degrees</title>
       <link>/publication/lavd/</link>
       <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>

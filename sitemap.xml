@@ -193,6 +193,16 @@
   </url>
   
   <url>
+    <loc>/project/hctl/</loc>
+    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/chen-gong/</loc>
     <lastmod>2019-01-10T00:00:00+00:00</lastmod>
   </url>
@@ -209,11 +219,6 @@
   
   <url>
     <loc>/project/primenet/</loc>
-    <lastmod>2019-01-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/</loc>
     <lastmod>2019-01-10T00:00:00+00:00</lastmod>
   </url>
   
