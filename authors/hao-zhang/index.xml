@@ -5,12 +5,20 @@
     <link>/authors/hao-zhang/</link>
       <atom:link href="/authors/hao-zhang/index.xml" rel="self" type="application/rss+xml" />
     <description>Hao Zhang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© IsaacChanghau · 2017-2021</copyright><lastBuildDate>Mon, 11 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© IsaacChanghau · 2017-2021</copyright><lastBuildDate>Tue, 23 Feb 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu1b364a951019a703f13d3cf900b79a27_31514_512x512_fill_lanczos_center_2.png</url>
       <title>Hao Zhang</title>
       <link>/authors/hao-zhang/</link>
     </image>
+    
+    <item>
+      <title>Natural Language Video Localization: A Revisit in Span-based Question Answering Framework</title>
+      <link>/publication/qa4nlvl/</link>
+      <pubDate>Tue, 23 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/qa4nlvl/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>GDPNet: Refining Latent Multi-View Graph for Relation Extraction</title>
