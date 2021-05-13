@@ -5,12 +5,20 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© IsaacChanghau · 2017-2021</copyright><lastBuildDate>Tue, 23 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© IsaacChanghau · 2017-2021</copyright><lastBuildDate>Thu, 06 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu1b364a951019a703f13d3cf900b79a27_31514_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
       <link>/publication/</link>
     </image>
+    
+    <item>
+      <title>COSY: COunterfactual SYntax for Cross-Lingual Understanding</title>
+      <link>/publication/cosy/</link>
+      <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/cosy/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Natural Language Video Localization: A Revisit in Span-based Question Answering Framework</title>

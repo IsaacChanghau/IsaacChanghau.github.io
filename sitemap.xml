@@ -2,19 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/publication_types/1/</loc>
+    <lastmod>2021-05-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/</loc>
+    <lastmod>2021-05-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/cosy/</loc>
+    <lastmod>2021-05-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/hao-zhang/</loc>
+    <lastmod>2021-05-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2021-05-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/jing-jiang/</loc>
+    <lastmod>2021-05-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication_types/</loc>
+    <lastmod>2021-05-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/</loc>
+    <lastmod>2021-05-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/qianru-sun/</loc>
+    <lastmod>2021-05-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/sicheng-yu/</loc>
+    <lastmod>2021-05-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/yulei-niu/</loc>
+    <lastmod>2021-05-06T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/publication_types/2/</loc>
     <lastmod>2021-02-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/aixin-sun/</loc>
-    <lastmod>2021-02-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/</loc>
-    <lastmod>2021-02-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/hao-zhang/</loc>
-    <lastmod>2021-02-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/</loc>
     <lastmod>2021-02-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/joey-tianyi-zhou/</loc>
@@ -26,20 +50,11 @@
     <loc>/publication/qa4nlvl/</loc>
     <lastmod>2021-02-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication_types/</loc>
-    <lastmod>2021-02-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication/</loc>
-    <lastmod>2021-02-23T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/authors/rick-siow-mong-goh/</loc>
     <lastmod>2021-02-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/wei-jing/</loc>
     <lastmod>2021-02-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication_types/1/</loc>
-    <lastmod>2021-01-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/eng-siong-chng/</loc>
     <lastmod>2021-01-11T00:00:00+00:00</lastmod>

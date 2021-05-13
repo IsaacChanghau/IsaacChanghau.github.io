@@ -27,10 +27,10 @@
   
     
   
-  <meta name="description" content="Research Engineer, Institute of High Performance Computing (IHPC)">
+  <meta name="description" content="Pre-trained multilingual language models, e.g., multilingual-BERT, are widely used in cross-lingual tasks, yielding the state-of-the-art performance. However, such models suffer from a large performance gap between source and target languages, especially in the zero-shot setting, where the models are fine-tuned only on English but tested on other languages for the same task. We tackle this issue by incorporating language-agnostic information, specifically, universal syntax such as dependency relations and POS tags, into language models, based on the observation that universal syntax is transferable across different languages. Our approach, named COunterfactual SYntax (COSY), includes the design of SYntax-aware networks as well as a COunterfactual training method to implicitly force the networks to learn not only the semantics but also the syntax. To evaluate COSY, we conduct cross-lingual experiments on natural language inference and question answering using mBERT and XLM-R as network backbones. Our results show that COSY achieves the state-of-the-art performance for both tasks, without using auxiliary dataset.">
 
   
-  <link rel="alternate" hreflang="en-us" href="/404.html">
+  <link rel="alternate" hreflang="en-us" href="/publication/cosy/">
 
   
 
@@ -218,7 +218,7 @@
   <link rel="icon" type="image/png" href="/images/icon_hu1b364a951019a703f13d3cf900b79a27_31514_32x32_fill_lanczos_center_2.png">
   <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu1b364a951019a703f13d3cf900b79a27_31514_192x192_fill_lanczos_center_2.png">
 
-  <link rel="canonical" href="/404.html">
+  <link rel="canonical" href="/publication/cosy/">
 
   
   
@@ -228,24 +228,70 @@
   
   
     
-    
   
   
-  <meta property="twitter:card" content="summary">
+  <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="IsaacChanghau">
-  <meta property="og:url" content="/404.html">
-  <meta property="og:title" content="404 Page not found | IsaacChanghau">
-  <meta property="og:description" content="Research Engineer, Institute of High Performance Computing (IHPC)"><meta property="og:image" content="/images/icon_hu1b364a951019a703f13d3cf900b79a27_31514_512x512_fill_lanczos_center_2.png">
-  <meta property="twitter:image" content="/images/icon_hu1b364a951019a703f13d3cf900b79a27_31514_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
+  <meta property="og:url" content="/publication/cosy/">
+  <meta property="og:title" content="COSY: COunterfactual SYntax for Cross-Lingual Understanding | IsaacChanghau">
+  <meta property="og:description" content="Pre-trained multilingual language models, e.g., multilingual-BERT, are widely used in cross-lingual tasks, yielding the state-of-the-art performance. However, such models suffer from a large performance gap between source and target languages, especially in the zero-shot setting, where the models are fine-tuned only on English but tested on other languages for the same task. We tackle this issue by incorporating language-agnostic information, specifically, universal syntax such as dependency relations and POS tags, into language models, based on the observation that universal syntax is transferable across different languages. Our approach, named COunterfactual SYntax (COSY), includes the design of SYntax-aware networks as well as a COunterfactual training method to implicitly force the networks to learn not only the semantics but also the syntax. To evaluate COSY, we conduct cross-lingual experiments on natural language inference and question answering using mBERT and XLM-R as network backbones. Our results show that COSY achieves the state-of-the-art performance for both tasks, without using auxiliary dataset."><meta property="og:image" content="/publication/cosy/featured.png">
+  <meta property="twitter:image" content="/publication/cosy/featured.png"><meta property="og:locale" content="en-us">
   
     
+      <meta property="article:published_time" content="2021-05-06T00:00:00&#43;00:00">
+    
+    <meta property="article:modified_time" content="2021-05-06T00:00:00&#43;00:00">
   
 
   
 
 
+    
 
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "/publication/cosy/"
+  },
+  "headline": "COSY: COunterfactual SYntax for Cross-Lingual Understanding",
+  
+  "image": [
+    "/publication/cosy/featured.png"
+  ],
+  
+  "datePublished": "2021-05-06T00:00:00Z",
+  "dateModified": "2021-05-06T00:00:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Sicheng Yu"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "IsaacChanghau",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "/images/icon_hu1b364a951019a703f13d3cf900b79a27_31514_192x192_fill_lanczos_center_2.png"
+    }
+  },
+  "description": "Pre-trained multilingual language models, e.g., multilingual-BERT, are widely used in cross-lingual tasks, yielding the state-of-the-art performance. However, such models suffer from a large performance gap between source and target languages, especially in the zero-shot setting, where the models are fine-tuned only on English but tested on other languages for the same task. We tackle this issue by incorporating language-agnostic information, specifically, universal syntax such as dependency relations and POS tags, into language models, based on the observation that universal syntax is transferable across different languages. Our approach, named COunterfactual SYntax (COSY), includes the design of SYntax-aware networks as well as a COunterfactual training method to implicitly force the networks to learn not only the semantics but also the syntax. To evaluate COSY, we conduct cross-lingual experiments on natural language inference and question answering using mBERT and XLM-R as network backbones. Our results show that COSY achieves the state-of-the-art performance for both tasks, without using auxiliary dataset."
+}
+</script>
+
+  
 
   
 
@@ -253,10 +299,13 @@
   
 
 
+  
 
 
 
-  <title>404 Page not found | IsaacChanghau</title>
+
+
+  <title>COSY: COunterfactual SYntax for Cross-Lingual Understanding | IsaacChanghau</title>
 
 </head>
 
@@ -539,50 +588,369 @@
 </nav>
 
 
-  <div class="universal-wrapper pt-3">
-
-  <h1>Page not found</h1>
-
-  
-  
-  <form class="d-flex align-items-center mb-3">
-    <input name="q" type="search" class="form-control" placeholder="Search..." autocomplete="off">
-  </form>
-  
+  <div class="pub">
 
   
 
-  <p>Perhaps you were looking for one of these?</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+
+
+<div class="article-container pt-3">
+  <h1>COSY: COunterfactual SYntax for Cross-Lingual Understanding</h1>
+
+  
+
+  
+
+
+<div class="article-metadata">
 
   
   
   
-  <h2>Latest</h2>
-  <ul>
+  
+  <div>
     
-      <li><a href="/publication/cosy/">COSY: COunterfactual SYntax for Cross-Lingual Understanding</a></li>
+
+  
+  <span >Sicheng Yu</span>, <span >Hao Zhang</span>, <span >Yulei Niu</span>, <span >Qianru Sun</span>, <span >Jing Jiang</span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
     
-      <li><a href="/publication/qa4nlvl/">Natural Language Video Localization: A Revisit in Span-based Question Answering Framework</a></li>
     
-      <li><a href="/publication/gdpnet/">GDPNet: Refining Latent Multi-View Graph for Relation Extraction</a></li>
+      
     
-      <li><a href="/publication/deep-nary-ecoc/">Deep N-ary Error Correcting Output Codes</a></li>
+    May 2021
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
+        data-filename="/publication/cosy/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+</div>
+
+
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 435px;">
+  <div style="position: relative">
+    <img src="/publication/cosy/featured_hu1616cb4714e9c8789b1c65cd93a90c70_624734_720x0_resize_lanczos_2.png" alt="" class="featured-image">
     
-      <li><a href="/publication/vslnet/">Span-based Localizing Network for Natural Language Video Localization</a></li>
+  </div>
+</div>
+
+
+
+  <div class="article-container">
+
     
-      <li><a href="/publication/mmt/">Multi-source Meta Transfer for Low Resource Multiple-Choice Question Answering</a></li>
+    <h3>Abstract</h3>
+    <p class="pub-abstract">Pre-trained multilingual language models, e.g., multilingual-BERT, are widely used in cross-lingual tasks, yielding the state-of-the-art performance. However, such models suffer from a large performance gap between source and target languages, especially in the zero-shot setting, where the models are fine-tuned only on English but tested on other languages for the same task. We tackle this issue by incorporating language-agnostic information, specifically, universal syntax such as dependency relations and POS tags, into language models, based on the observation that universal syntax is transferable across different languages. Our approach, named COunterfactual SYntax (COSY), includes the design of SYntax-aware networks as well as a COunterfactual training method to implicitly force the networks to learn not only the semantics but also the syntax. To evaluate COSY, we conduct cross-lingual experiments on natural language inference and question answering using mBERT and XLM-R as network backbones. Our results show that COSY achieves the state-of-the-art performance for both tasks, without using auxiliary dataset.</p>
     
-      <li><a href="/publication/robocodraw/">RoboCoDraw: Robotic Avatar Drawing with GAN-based Style Transfer and Time-efficient Path Optimization</a></li>
+
     
-      <li><a href="/publication/deep-model-fusion/">Efficient Robotic Task Generalization Using Deep Model Fusion Reinforcement Learning</a></li>
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            
+            
+            <a href="/publication/#1">
+              Conference paper
+            </a>
+            
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
     
-      <li><a href="/publication/datnet-tpami/">Dual Adversarial Transfer for Sequence Labeling</a></li>
+
     
-      <li><a href="/publication/datnet/">Dual Adversarial Neural Transfer for Low-resource Named Entity Recognition</a></li>
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9">Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics (ACL 2021)</div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
+
+    
+
+
+
+
+
+
+
+
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=/publication/cosy/&amp;text=COSY:%20COunterfactual%20SYntax%20for%20Cross-Lingual%20Understanding" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=/publication/cosy/&amp;t=COSY:%20COunterfactual%20SYntax%20for%20Cross-Lingual%20Understanding" target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=COSY:%20COunterfactual%20SYntax%20for%20Cross-Lingual%20Understanding&amp;body=/publication/cosy/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=/publication/cosy/&amp;title=COSY:%20COunterfactual%20SYntax%20for%20Cross-Lingual%20Understanding" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://web.whatsapp.com/send?text=COSY:%20COunterfactual%20SYntax%20for%20Cross-Lingual%20Understanding%20/publication/cosy/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=/publication/cosy/&amp;title=COSY:%20COunterfactual%20SYntax%20for%20Cross-Lingual%20Understanding" target="_blank" rel="noopener" class="share-btn-weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
     
   </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    
+
+
+
+
+
   
 
+
+  
+    
+    
+
+
+
+
+
+  
+
+
+  
+    
+    
+
+
+
+
+
+  
+
+
+  
+    
+    
+
+
+
+
+
+  
+
+
+  
+    
+    
+
+
+
+
+
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
 </div>
 
       

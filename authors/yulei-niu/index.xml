@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yulei Niu | IsaacChanghau</title>
+    <link>/authors/yulei-niu/</link>
+      <atom:link href="/authors/yulei-niu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yulei Niu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© IsaacChanghau · 2017-2021</copyright><lastBuildDate>Thu, 06 May 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu1b364a951019a703f13d3cf900b79a27_31514_512x512_fill_lanczos_center_2.png</url>
+      <title>Yulei Niu</title>
+      <link>/authors/yulei-niu/</link>
+    </image>
+    
+    <item>
+      <title>COSY: COunterfactual SYntax for Cross-Lingual Understanding</title>
+      <link>/publication/cosy/</link>
+      <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/cosy/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
