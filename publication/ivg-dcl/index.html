@@ -27,10 +27,10 @@
   
     
   
-  <meta name="description" content="Research Engineer, Institute of High Performance Computing (IHPC)">
+  <meta name="description" content="Video grounding aims to localize a moment from an untrimmed video for a given textual query. Existing approaches focus more on the alignment of visual and language stimuli with various likelihood-based matching or regression strategies, i.e., P(Y|X). Consequently, these models may suffer from spurious correlations between the language and video features due to the selection bias of the dataset. 1) To uncover the causality behind the model and data, we first propose a novel paradigm from the perspective of the causal inference, i.e., interventional video grounding (IVG) that leverages backdoor adjustment to deconfound the selection bias based on structured causal model (SCM) and do-calculus P(Y|do(X)). Then, we present a simple yet effective method to approximate the unobserved confounder as it cannot be directly sampled from the dataset. 2) Meanwhile, we introduce a dual contrastive learning approach (DCL) to better align the text and video by maximizing the mutual information (MI) between query and video clips, and the MI between start/end frames of a target moment and the others within a video to learn more informative visual representations. Experiments on three standard benchmarks show the effectiveness of our approaches.">
 
   
-  <link rel="alternate" hreflang="en-us" href="/publication_types/1/">
+  <link rel="alternate" hreflang="en-us" href="/publication/ivg-dcl/">
 
   
 
@@ -213,14 +213,12 @@
   
 
   
-  <link rel="alternate" href="/publication_types/1/index.xml" type="application/rss+xml" title="IsaacChanghau">
-  
 
   <link rel="manifest" href="/index.webmanifest">
   <link rel="icon" type="image/png" href="/images/icon_hu1b364a951019a703f13d3cf900b79a27_31514_32x32_fill_lanczos_center_2.png">
   <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu1b364a951019a703f13d3cf900b79a27_31514_192x192_fill_lanczos_center_2.png">
 
-  <link rel="canonical" href="/publication_types/1/">
+  <link rel="canonical" href="/publication/ivg-dcl/">
 
   
   
@@ -230,35 +228,84 @@
   
   
     
-    
   
   
-  <meta property="twitter:card" content="summary">
+  <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="IsaacChanghau">
-  <meta property="og:url" content="/publication_types/1/">
-  <meta property="og:title" content="1 | IsaacChanghau">
-  <meta property="og:description" content="Research Engineer, Institute of High Performance Computing (IHPC)"><meta property="og:image" content="/images/icon_hu1b364a951019a703f13d3cf900b79a27_31514_512x512_fill_lanczos_center_2.png">
-  <meta property="twitter:image" content="/images/icon_hu1b364a951019a703f13d3cf900b79a27_31514_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
+  <meta property="og:url" content="/publication/ivg-dcl/">
+  <meta property="og:title" content="Interventional Video Grounding with Dual Contrastive Learning | IsaacChanghau">
+  <meta property="og:description" content="Video grounding aims to localize a moment from an untrimmed video for a given textual query. Existing approaches focus more on the alignment of visual and language stimuli with various likelihood-based matching or regression strategies, i.e., P(Y|X). Consequently, these models may suffer from spurious correlations between the language and video features due to the selection bias of the dataset. 1) To uncover the causality behind the model and data, we first propose a novel paradigm from the perspective of the causal inference, i.e., interventional video grounding (IVG) that leverages backdoor adjustment to deconfound the selection bias based on structured causal model (SCM) and do-calculus P(Y|do(X)). Then, we present a simple yet effective method to approximate the unobserved confounder as it cannot be directly sampled from the dataset. 2) Meanwhile, we introduce a dual contrastive learning approach (DCL) to better align the text and video by maximizing the mutual information (MI) between query and video clips, and the MI between start/end frames of a target moment and the others within a video to learn more informative visual representations. Experiments on three standard benchmarks show the effectiveness of our approaches."><meta property="og:image" content="/publication/ivg-dcl/featured.png">
+  <meta property="twitter:image" content="/publication/ivg-dcl/featured.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2021-05-06T00:00:00&#43;00:00">
+    
+      <meta property="article:published_time" content="2021-04-26T00:00:00&#43;00:00">
+    
+    <meta property="article:modified_time" content="2021-04-26T00:00:00&#43;00:00">
   
-
-  
-
-
-
 
   
 
 
+    
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "/publication/ivg-dcl/"
+  },
+  "headline": "Interventional Video Grounding with Dual Contrastive Learning",
+  
+  "image": [
+    "/publication/ivg-dcl/featured.png"
+  ],
+  
+  "datePublished": "2021-04-26T00:00:00Z",
+  "dateModified": "2021-04-26T00:00:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Guoshun Nan"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "IsaacChanghau",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "/images/icon_hu1b364a951019a703f13d3cf900b79a27_31514_192x192_fill_lanczos_center_2.png"
+    }
+  },
+  "description": "Video grounding aims to localize a moment from an untrimmed video for a given textual query. Existing approaches focus more on the alignment of visual and language stimuli with various likelihood-based matching or regression strategies, i.e., P(Y|X). Consequently, these models may suffer from spurious correlations between the language and video features due to the selection bias of the dataset. 1) To uncover the causality behind the model and data, we first propose a novel paradigm from the perspective of the causal inference, i.e., interventional video grounding (IVG) that leverages backdoor adjustment to deconfound the selection bias based on structured causal model (SCM) and do-calculus P(Y|do(X)). Then, we present a simple yet effective method to approximate the unobserved confounder as it cannot be directly sampled from the dataset. 2) Meanwhile, we introduce a dual contrastive learning approach (DCL) to better align the text and video by maximizing the mutual information (MI) between query and video clips, and the MI between start/end frames of a target moment and the others within a video to learn more informative visual representations. Experiments on three standard benchmarks show the effectiveness of our approaches."
+}
+</script>
+
+  
+
+  
+
+
+  
+
+
   
 
 
 
 
 
-  <title>1 | IsaacChanghau</title>
+  <title>Interventional Video Grounding with Dual Contrastive Learning | IsaacChanghau</title>
 
 </head>
 
@@ -541,89 +588,391 @@
 </nav>
 
 
-  
-
-
-
-
-
-
-
-
-
-
-
+  <div class="pub">
 
   
 
-  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   
   
     
   
-<div class="universal-wrapper pt-3">
-  <h1>1</h1>
+
+
+<div class="article-container pt-3">
+  <h1>Interventional Video Grounding with Dual Contrastive Learning</h1>
 
   
 
   
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  
+  <span >Guoshun Nan</span>, <span >Rui Qiao</span>, <span >Yao Xiao</span>, <span >Jun Liu</span>, <span >Sicong Leng</span>, <span >Hao Zhang</span>, <span >Wei Lu</span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    April 2021
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
+        data-filename="/publication/ivg-dcl/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+</div>
+
+
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 328px;">
+  <div style="position: relative">
+    <img src="/publication/ivg-dcl/featured_hu693a1bc29b89d74b0b3a48c50730091d_276727_720x0_resize_lanczos_2.png" alt="" class="featured-image">
+    
+  </div>
 </div>
 
 
 
-<div class="universal-wrapper">
-  
+  <div class="article-container">
 
-  
-  
     
+    <h3>Abstract</h3>
+    <p class="pub-abstract">Video grounding aims to localize a moment from an untrimmed video for a given textual query. Existing approaches focus more on the alignment of visual and language stimuli with various likelihood-based matching or regression strategies, i.e., P(Y|X). Consequently, these models may suffer from spurious correlations between the language and video features due to the selection bias of the dataset. 1) To uncover the causality behind the model and data, we first propose a novel paradigm from the perspective of the causal inference, i.e., interventional video grounding (IVG) that leverages backdoor adjustment to deconfound the selection bias based on structured causal model (SCM) and do-calculus P(Y|do(X)). Then, we present a simple yet effective method to approximate the unobserved confounder as it cannot be directly sampled from the dataset. 2) Meanwhile, we introduce a dual contrastive learning approach (DCL) to better align the text and video by maximizing the mutual information (MI) between query and video clips, and the MI between start/end frames of a target moment and the others within a video to learn more informative visual representations. Experiments on three standard benchmarks show the effectiveness of our approaches.</p>
     
-    
-    <div>
-      <h2><a href="/publication/datnet/" >Dual Adversarial Neural Transfer for Low-resource Named Entity Recognition</a></h2>
-      <div class="article-style">
-        
-          We propose a new neural transfer method termed Dual Adversarial Transfer Network (DATNet) for addressing low-resource Named Entity Recognition (NER). Specifically, two variants of DATNet, i.e., DATNet-F and DATNet-P, are investigated to explore …
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/action-hierarchy/" >Action Hierarchy Extraction and its Application</a></h2>
-      <div class="article-style">
-        
-          Modeling action as an important topic in robotics and human-computer communication assumes by default examining a large set of actions as described by natural language. We offer a procedure for how to extract actions from WordNet. It is based on the …
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/wordnet/" >WordNet Troponymy and Extraction of Manner-Result Relations</a></h2>
-      <div class="article-style">
-        
-          Commonsense knowledge bases need to have relations that allow to predict the consequences of specific actions (say, if John stabbed Peter, Peter might be killed) and to unfold the possible actions for the specific results (Peter was killed. It could …
-        
-      </div>
-    </div>
-  
 
-  
-<nav>
-  <ul class="pagination justify-content-center">
     
-    <li class="page-item"><a class="page-link" href="/publication_types/1/">&laquo;</a></li>
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            
+            
+            <a href="/publication/#1">
+              Conference paper
+            </a>
+            
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
     
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9">IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2021)</div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
+
+    
+
+
+
+
+
+
+
+
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=/publication/ivg-dcl/&amp;text=Interventional%20Video%20Grounding%20with%20Dual%20Contrastive%20Learning" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=/publication/ivg-dcl/&amp;t=Interventional%20Video%20Grounding%20with%20Dual%20Contrastive%20Learning" target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=Interventional%20Video%20Grounding%20with%20Dual%20Contrastive%20Learning&amp;body=/publication/ivg-dcl/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=/publication/ivg-dcl/&amp;title=Interventional%20Video%20Grounding%20with%20Dual%20Contrastive%20Learning" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://web.whatsapp.com/send?text=Interventional%20Video%20Grounding%20with%20Dual%20Contrastive%20Learning%20/publication/ivg-dcl/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=/publication/ivg-dcl/&amp;title=Interventional%20Video%20Grounding%20with%20Dual%20Contrastive%20Learning" target="_blank" rel="noopener" class="share-btn-weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
     
   </ul>
-</nav>
+</div>
 
 
+
+
+
+
+
+
+
+
+
+
+  
+    
+    
+
+
+
+
+
+  
+
+
+  
+    
+    
+
+
+
+
+
+  
+
+
+  
+    
+    
+
+
+
+
+
+  
+
+
+  
+    
+    
+
+
+
+
+
+  
+
+
+  
+    
+    
+
+
+
+
+
+  
+
+
+  
+    
+    
+
+
+
+
+
+  
+
+
+  
+    
+    
+
+
+
+
+
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
 </div>
 
       
