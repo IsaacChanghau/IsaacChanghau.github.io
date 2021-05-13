@@ -5,12 +5,20 @@
     <link>/authors/joey-tianyi-zhou/</link>
       <atom:link href="/authors/joey-tianyi-zhou/index.xml" rel="self" type="application/rss+xml" />
     <description>Joey Tianyi Zhou*</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© IsaacChanghau · 2017-2021</copyright><lastBuildDate>Tue, 23 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© IsaacChanghau · 2017-2021</copyright><lastBuildDate>Thu, 06 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu1b364a951019a703f13d3cf900b79a27_31514_512x512_fill_lanczos_center_2.png</url>
       <title>Joey Tianyi Zhou*</title>
       <link>/authors/joey-tianyi-zhou/</link>
     </image>
+    
+    <item>
+      <title>Parallel Attention Network with Sequence Matching for Video Grounding</title>
+      <link>/publication/seqpan/</link>
+      <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/seqpan/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Natural Language Video Localization: A Revisit in Span-based Question Answering Framework</title>
